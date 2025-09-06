@@ -1,4 +1,4 @@
-*** Ignite HUD v1
+# Ignite HUD v1
 
 Developed by theyarma
 
